@@ -1,0 +1,13 @@
+C:\Users\maxfr\source\repos\VATCalculator\VATCalculator\VATCalculator\bin\Debug\netstandard2.0\VATCalculator.deps.json
+C:\Users\maxfr\source\repos\VATCalculator\VATCalculator\VATCalculator\bin\Debug\netstandard2.0\VATCalculator.dll
+C:\Users\maxfr\source\repos\VATCalculator\VATCalculator\VATCalculator\bin\Debug\netstandard2.0\ref\VATCalculator.dll
+C:\Users\maxfr\source\repos\VATCalculator\VATCalculator\VATCalculator\bin\Debug\netstandard2.0\VATCalculator.pdb
+C:\Users\maxfr\source\repos\VATCalculator\VATCalculator\VATCalculator\obj\Debug\netstandard2.0\VATCalculator.csprojAssemblyReference.cache
+C:\Users\maxfr\source\repos\VATCalculator\VATCalculator\VATCalculator\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\maxfr\source\repos\VATCalculator\VATCalculator\VATCalculator\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\maxfr\source\repos\VATCalculator\VATCalculator\VATCalculator\obj\Debug\netstandard2.0\VATCalculator.AssemblyInfoInputs.cache
+C:\Users\maxfr\source\repos\VATCalculator\VATCalculator\VATCalculator\obj\Debug\netstandard2.0\VATCalculator.AssemblyInfo.cs
+C:\Users\maxfr\source\repos\VATCalculator\VATCalculator\VATCalculator\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\maxfr\source\repos\VATCalculator\VATCalculator\VATCalculator\obj\Debug\netstandard2.0\VATCalculator.dll
+C:\Users\maxfr\source\repos\VATCalculator\VATCalculator\VATCalculator\obj\Debug\netstandard2.0\ref\VATCalculator.dll
+C:\Users\maxfr\source\repos\VATCalculator\VATCalculator\VATCalculator\obj\Debug\netstandard2.0\VATCalculator.pdb

@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="VATCalculator.MainPage">
+
+    <StackLayout Orientation="Vertical"
+                 Margin="10, 20">
+        <!-- Place new controls here -->
+        <Label Text="Inmatat Belopp:"
+               HorizontalOptions="Center" />
+        <Label x:Name="inputAmount"
+               Text="0 SEK"
+               HorizontalOptions="Center"
+               VerticalOptions="FillAndExpand" />
+        <Label Text="Momssats:"
+               HorizontalOptions="Center" />
+        <Label x:Name="vatRate"
+               Text="0%"
+               HorizontalOptions="Center"
+               VerticalOptions="FillAndExpand" />
+        <Label Text="Uträknat Belopp:"
+               HorizontalOptions="Center" />
+        <Label x:Name="calculatedAmount"
+               Text="0 SEK"
+               HorizontalOptions="Center"
+               VerticalOptions="FillAndExpand" />
+        <Label Text="Uträknad Moms:"
+               HorizontalOptions="Center" />
+        <Label x:Name="calculatedVat"
+               Text="0 SEK"
+               HorizontalOptions="Center"
+               VerticalOptions="FillAndExpand" />
+        
+        <StackLayout VerticalOptions="FillAndExpand">
+            <Entry x:Name="input"
+                   Placeholder="Skriv ett belopp inklusive moms"
+                   Keyboard="Numeric"
+                   HorizontalOptions="Fill" />
+            <Label x:Name="inputError"
+                   Text=""
+                   TextColor="Red"
+                   HorizontalOptions="Center" />
+        </StackLayout>
+        
+        <StackLayout VerticalOptions="FillAndExpand">
+            <Button Text="8%"
+                    x:Name="eightPercent"
+                    TextColor="Blue"
+                    BackgroundColor="Transparent"
+                    HorizontalOptions="Center" />
+            <Button Text="12%"
+                    x:Name="twelvePercent"
+                    TextColor="Blue"
+                    BackgroundColor="Transparent"
+                    HorizontalOptions="Center" />
+            <Button Text="25%"
+                    x:Name="twentyFivePercent"
+                    TextColor="Blue"
+                    BackgroundColor="Transparent"
+                    HorizontalOptions="Center" />
+        </StackLayout>
+        
+    </StackLayout>
+    
+</ContentPage>
